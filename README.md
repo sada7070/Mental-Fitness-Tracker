@@ -1,6 +1,3 @@
-
-Readme for Mental Fitness Tracker
-
 Mental Fitness Tracker
 
 Overview
